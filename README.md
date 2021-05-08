@@ -1,6 +1,6 @@
 
 # gruvbox-material-geany
-A port of [Gruvbox Material] (https://github.com/sainnhe/gruvbox-material) theme for Geany. 
+A port of [Gruvbox Material](https://github.com/sainnhe/gruvbox-material) theme for Geany. 
 
 # Installation
 In order to use: 
