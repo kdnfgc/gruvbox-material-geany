@@ -6,7 +6,7 @@ A port of [Gruvbox Material](https://github.com/sainnhe/gruvbox-material) theme 
 In order to use: 
 
 1. git clone https://github.com/kdnfgc/gruvbox-material-geany.git
-2. cd gruvbox-material-geany && cp gruvbox-material-dark.conf ~/.config/geany/colorschemes
+2. cd gruvbox-material-geany && cp gruvbox-material-dark.conf ~/.config/geany/colorschemes/
 
 
 And, that's it!
